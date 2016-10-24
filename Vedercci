@@ -1,0 +1,21 @@
+<html>
+<body>
+<title>Sociales</title>
+<script type="text/javascript">
+
+  var Clave=prompt("Sociales")
+
+if(Clave == 723){
+  document.write(<p>"Gracias a Galileo, se continuó el estudio de la física y la corrección de teorías antes establecidas por los griegos. Se continuó el estudio de la dinámica."</p>
+  <p>"Galileo corrigió a Aristóteles con su teoría de la gravedad y el peso en una caída, mostrando que el peso no afecta en las caídas, pues ya hay una velocidad pre-determinada para las caídas. Esto le gano odio de algunos profesores y la creencia de que él es una mala persona."</p>
+  <p>"Galileo avanzo la experimentación científica, pues nadie había probado en 2000 años si las teorías de Aristóteles eran ciertas."</p>
+  <p>"Aunque tirar objetos desde la torre de Pisa no lo ponía en ningún riesgo, el telescopio (que había robado la idea de un holandés), era otra historia. Para persuadir al gobierno de los descubrimientos que hizo, Galileo bautizo a uno de ellos, Sidera Medicca, en honor al duque de Toscana."</p>
+  <p>"El telescopio descubrió: venus tiene fases como la luna, la luna tiene montañas, el sol tenía manchas, etc… Esto lo llevo a la conclusión por parte de la iglesia que eso era una prueba de que la creación de Dios no era perfecta, y decidieron prohibir su mención por años. Todo esto llevo a que la Inquisición destruyera varios textos."</p>
+)
+}
+else if(Clave == 23){"OKA"
+}
+
+</script>
+</body>
+<html>
